@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wildlife]]></title>
         <description><![CDATA[Wildlife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wildlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 16:52:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 16:56:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wildlife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c41dc3c0-89a4-4fd8-aa30-840f75be2f9e.jpg">]]></description>
+            <link>https://thegrid.ai/wildlife/f1ff3aa5-add5-4267-92ca-c7f6406f88e9/index.html</link>
+            <guid isPermaLink="false">f1ff3aa5-add5-4267-92ca-c7f6406f88e9</guid>
+            <pubDate>Thu, 28 Apr 2016 16:55:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c1d737-fa60-4c53-b18d-2d9895e62221.jpg">]]></description>
-            <link>undefined6e7c01cc-be94-4f5b-ade1-2352025d9e99/index.html</link>
+            <link>https://thegrid.ai/wildlife/6e7c01cc-be94-4f5b-ade1-2352025d9e99/index.html</link>
             <guid isPermaLink="false">6e7c01cc-be94-4f5b-ade1-2352025d9e99</guid>
             <pubDate>Thu, 28 Apr 2016 16:51:46 GMT</pubDate>
         </item>
